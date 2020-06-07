@@ -1,0 +1,3 @@
+[submodule "tensorflow"]
+	path = research/syntaxnet/tensorflow
+	url = https://github.com/mertkislakci/models-1.13.0.git
